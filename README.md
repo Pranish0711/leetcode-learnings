@@ -1,3 +1,3 @@
 # leetcode-learnings
 
-repositories used ...
+repositories used for updating & maintaining all leetcode problems
