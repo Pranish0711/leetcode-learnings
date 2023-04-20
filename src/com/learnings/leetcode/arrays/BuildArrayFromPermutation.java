@@ -7,7 +7,6 @@ import java.util.Arrays;
 public class BuildArrayFromPermutation {
 
   public static void main(String[] args) {
-    System.out.println("hello");
     int[] inp = new int[] { 5,0,1,2,3,4 };
     BuildArrayFromPermutation obj = new BuildArrayFromPermutation();
     System.out.println(Arrays.toString(obj.buildArray(inp)));
