@@ -1,6 +1,7 @@
 package com.learnings.leetcode.arrays;
 
 import java.util.Arrays;
+
 //https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
 public class SmallerNumbersThanCurrent {
 
@@ -23,4 +24,6 @@ public class SmallerNumbersThanCurrent {
     }
     return ams;
   }
+
+  
 }
